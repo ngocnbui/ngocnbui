@@ -20,12 +20,12 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
   
 - Visualization: Tableau, Looker Studio
 ## 📚 Table of Contents
-- [Foundations to data science](#data-engineering)
+- [Foundations to Data Science](#Data Science)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
 - [Katie's Guides](#katies-guides)
-# Data Engineering
+# Data Science
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
