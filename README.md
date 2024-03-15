@@ -4,10 +4,10 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 
 🌱 I’m currently learning ...
 
-Querying data using SQL.
+- Querying data using SQL.
 
-Generate reports and perform ad-hoc data analysis using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
 
-Developing dashboards on Tableau and Looker Studio.
+- Developing dashboards on Tableau and Looker Studio.
 
-Data analysis and reporting using Google Sheets and Excel.
+- Data analysis and reporting using Google Sheets and Excel.
