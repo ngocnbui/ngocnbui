@@ -23,8 +23,9 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 - [Foundations to Data Science](#Data-Science)
 - [Get started with Python](#Python)
 - [Go Beyond the Numbers](#Data-into-Insights)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+- [The Power of Statistics](#Statistics)
+- [Regression Analysis: Simplify Complex Data Relationships](#Regression-Analysis)
+- [The Nuts and Bolts of Machine Learning](#Machine-Learning)
 # Data Science
 
 | Project Link | Completion Date | Tools | Project Description | 
@@ -43,3 +44,34 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 | 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
 
 ***
+
+# Statistics
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
+| 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
+| ⛽️ [Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib |   
+| 🍷 [Wine Quality](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb) | Data Wrangling & EDA | A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality. | pandas, matplotlib |   
+| 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb) | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
+| 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
+| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb) | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
+
+***
+# Regression Analysis
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+
+***
+# Machine Learning
+
+## 📚 SQL Resources
+
+Looking to learn SQL for data analysis but don't know where to start? 
+
+Check out [my post](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C) on LinkedIn where I've compiled a comprehensive list of free SQL resources! From YouTube videos to interactive websites, courses, practice sites, and projects, this list has got you covered.
+
+<knb><img width="535" alt="Screenshot 2021-09-29 at 9 28 28 PM" src="https://user-images.githubusercontent.com/81607668/135277994-a45a6cf2-becc-464b-a0c3-5315bef99f33.png"></knb>
