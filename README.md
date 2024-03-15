@@ -19,3 +19,9 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 - Database: Google BigQuery, PostgreSQL, MySQL
   
 - Visualization: Tableau, Looker Studio
+## 📚 Table of Contents
+- [Data Engineering](#data-engineering)
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
+- [Katie's Guides](#katies-guides)
