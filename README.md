@@ -26,6 +26,7 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 - [The Power of Statistics](#Statistics)
 - [Regression Analysis: Simplify Complex Data Relationships](#Regression-Analysis)
 - [The Nuts and Bolts of Machine Learning](#Machine-Learning)
+- [Google Advanced Data Analytics Capstone](#Capstone)
 # Data Science
 
 | Project Link | Completion Date | Tools | Project Description | 
@@ -71,5 +72,8 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 ## 📚 Machine Learning Resources
 
 Looking to learn ML for data analysis but don't know where to start? 
+
+# Capstone
+
 
 
