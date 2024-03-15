@@ -20,7 +20,7 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
   
 - Visualization: Tableau, Looker Studio
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Foundations to data science](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
