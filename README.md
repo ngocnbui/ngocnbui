@@ -21,8 +21,8 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 - Visualization: Tableau, Looker Studio
 ## 📚 Table of Contents
 - [Foundations to Data Science](#Data-Science)
-- [SQL](#sql)
-- [Python](#python)
+- [Get started with Python](#Python)
+- [Go Beyond the Numbers](#Data into Insights)
 - [Tableau](#tableau)
 - [Katie's Guides](#katies-guides)
 # Data Science
@@ -34,7 +34,7 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 
 ***
 
-# SQL
+# Data into Insights
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
