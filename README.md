@@ -12,7 +12,7 @@ I'm Ngoc Bui. Data Analyst with expertise in data analysis and reporting, query 
 
 - Data analysis and reporting using Google Sheets and Excel.
 
-**🛠️ Tools**
+**🛠️ Tools...**
 
 - Language: SQL, Python
   
